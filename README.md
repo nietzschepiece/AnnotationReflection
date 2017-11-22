@@ -10,9 +10,11 @@ mySQL Database used.
 ## Examples:
 
 @TableName(tableName = "PersonsTable")
+
  public class Person{}
 
 @DatabaseColumn(columnName = "NAME")
+
  private String name;
 
 ### Technologies / Frameworks: 
