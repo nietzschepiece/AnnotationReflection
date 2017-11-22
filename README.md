@@ -1,6 +1,6 @@
 ## Save to Database Annotation
 
-Save model to database at runtime ( RetentionPolicy.RUNTIME) , using custom annotations and reflection.
+Save model and persist data to database at runtime ( RetentionPolicy.RUNTIME) , using custom annotations and reflection.
 
 - @TableName ( Target = ElementType.TYPE - over class)
 - @DatabaseColumn ( Target = ElementType.FIELD - over fields)
